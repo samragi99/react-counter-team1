@@ -1,0 +1,31 @@
+.btn {
+    background-color: rgb(226, 97, 198);
+    font-size: 60px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.btn1 {
+    background-color: rgb(3, 132, 18);
+    font-size: 60px;
+    margin: 25px;
+    border-radius: 30px;
+}
+.btn2 {
+    background-color: rgba(130, 9, 21, 0.557);
+    font-size: 60px;
+    border-radius: 30px;
+}
+.box {
+    text-align: center;
+    border: 1px solid black;
+    min-height: 30rem;
+   width: 50rem;
+   margin-left: 20rem;
+   margin-top: 100px;
+   border-radius: 100px;
+}
+.btn3 {
+    background-color: rgba(0, 0, 255, 0.543);
+    color: white;
+    font-size: 80px;
+}
